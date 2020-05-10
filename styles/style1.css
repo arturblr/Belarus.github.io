@@ -1,0 +1,35 @@
+p {
+    text-align: center;
+    font-size: 72px;
+    color: cyan;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: lighter;
+    background-color: cyan;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+
+button {
+    height: 100px;
+    width: 300px;
+    font-size: 36px;
+    background-color: cyan;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+a {
+    color: darkblue;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+}
